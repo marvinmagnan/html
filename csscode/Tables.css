@@ -1,0 +1,46 @@
+	body {
+		background-image: url("/Users/marvinmagnan/Desktop/css/james2.jpg");
+		color: white;		
+		background-position: left top;	
+				}
+
+
+	h1
+		{
+		text-align: center;
+		background-color: black;
+		padding: 10px;
+		color: blue;
+				}
+
+
+	table.yes
+		{ 
+			border: 5px solid #ffffff;
+			margin: 35px auto 10px auto;
+			background-color: blue;
+			border-spacing: 10px 15px;
+							}
+
+
+	td
+		{
+			border: 1px solid #000000
+						}
+
+	
+	td.one
+		{
+			background-color: white;
+			color: black;
+			text-align: center;
+								}
+	td.six
+		{
+			background-color: red;
+						}
+	
+	td.zero
+		{
+			background-color: pink;
+					}

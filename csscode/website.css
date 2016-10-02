@@ -1,0 +1,51 @@
+
+body {
+	background-color: white;
+	font-size: 60%;
+	font-family: "courier Now", courier, monospace;
+	letter - spacing: 0.15em;}
+
+#lebron {
+		max-width: 800px; 
+		min-width: 720px;			
+		padding: 5px;
+		border: 5px double rgb(250,50,25);
+		border-style: solid;
+		margin: 30px auto 10px auto;
+		background-color: white;
+   				}
+
+
+#logo
+	{
+		width: 250px;
+		margin: 5px auto 25px auto;
+				}
+
+ul	{
+		width: 570px;
+		padding: 10px;
+		margin: 0px auto 0px auto;
+		border-top: 2px solid #000;
+		border-bottom: 2px solid #000;
+		text-align: center;
+		font-size: 12px;
+		color: red;	
+		text-shadow: 0px 1px 1px;
+						}
+
+
+
+li 	{
+		display: inline;
+		margin: 0px 30px;}
+
+p	{
+		text-align: center;
+		width: 600px;
+		margin: 20px auto 20px auto;
+		font-weight: normal;
+		font-size: 12px;
+					}
+
+

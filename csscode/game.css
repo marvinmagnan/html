@@ -1,0 +1,58 @@
+
+
+
+
+		body
+			{ background-color: black;
+						}
+
+		#header
+			{
+			background-color: red;
+			box-shadow: 1px 10px 5px yellow;
+			color: white;
+
+						}
+		h1
+			{
+			text-align: center;
+					}
+
+		h2
+			{
+			color: gold;
+			margin-top: -2px;
+					}
+
+		#section
+			{
+			background-color: black;
+			border:3px solid yellow;
+			margin-left: 200px;
+			margin-right: 240px;
+					}
+
+		#ps4
+			{
+			background-color: white;
+			border: 3px solid red;
+			color: black;
+			Float: right;
+			height: 320px;
+			margin-top: -400px;
+			margin-right: 5px;
+			box-shadow: 2px white;
+					}
+
+		#prize
+			{ 
+			 margin-top: -60px;
+			 margin-right: 5px;
+					}	
+
+		.win
+			{
+			color: gold;
+			text-shadow: 1px 2px 2px;
+				}
+

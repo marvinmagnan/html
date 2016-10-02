@@ -1,0 +1,101 @@
+
+	body
+		{       
+			background-color: white;
+			height: 900px;
+			width: 900px;
+						}
+
+	
+					
+
+
+
+	#header	
+		{	background-color: black;	
+			font-size: 36px;
+			color: white;
+			border: 3px solid black;
+			margin-bottom: -10px;
+			text-align: center;
+					}
+
+
+	#pic
+		{	margin-top: 35px;
+			position: absolute;
+			left: 10px;
+					}
+
+	#pic1
+		{
+			margin-top: -265px;
+			margin-right: 125px;
+			position: absolute;
+			right: 200px;
+
+					}
+
+
+	#main
+		 {	margin-top: 60px;
+			text-align: center;
+			border-radius: 5px 5px 5px 5px;
+			border-top: 3px solid black;
+			border-bottom: 5px solid blue;
+						}	
+
+	.we
+		{
+			font-size: 36px;
+					}
+
+	.man
+		{
+			font-size: 48px;
+					}
+
+	.your
+		{
+			font-size: 72px;
+			margin-bottom: 10px;
+					}
+
+	#main1
+		{	margin-top: 10px;
+			border: 5px solid blue;
+			box-shadow: 2px 2px 5px blue;
+			float: right;
+			padding: 3px;
+			
+						}
+
+	p
+		{
+			text-align: center;
+			color: blue;
+			font-size: 24px;
+			font-style: italic;
+						}
+	
+	.h
+		{	color: blue;
+			text-align: center;
+		        font-style: italic;			
+			font-size: 24px;
+
+					}
+	#cards
+		{	margin-top: 9px;
+			border: 5px solid black;
+			box-shadow: 2px 2px 5px black;
+			width: 375px;
+			height: 158px;
+			float: left;
+					}
+
+	li
+		{
+			color:red;
+			font-size: 16px;
+				}

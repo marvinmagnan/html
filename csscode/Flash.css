@@ -1,0 +1,12 @@
+
+	body
+		{
+			background-color: rgb(150,150,200);
+			border: 4px solid #efefef;
+							}
+
+	.align-right
+			{
+			float: right;
+			margin-right: 100px;
+					}

@@ -1,0 +1,84 @@
+
+	body 
+		{
+			background-color: grey;
+						}
+
+
+
+	.header
+		{
+		 background-color: navy;
+		 text-align: center;
+		 padding: 20px;
+		 margin-top: -20px;
+		 border: 10px solid black;
+		 border-style: double;
+		 height: 75px;
+			}
+
+	#example
+		{
+		 background-color: navy;
+		 border: 4px solid grey;
+		 border-style: groove;
+		 box-shadow: 2px 2px 3px #ffffff;
+		 width: 340px;
+		 position: fixed
+		 right: 5px;
+		 margin-left: 500px;
+				}
+
+	.example1
+		{
+		 background-color: gray;
+		 border: 4px solid white;
+		 width: 250px;
+		 text-align: center;
+		 margin-left: 45px;
+				}
+
+
+
+	fieldset
+	
+		{
+			border-radius: 20px;
+			width: 400px;
+			margin-left: 800px;	
+					}
+
+	legend
+		{
+			border-radius: 150px 150px;
+			background-color: blue;
+			color: white;
+			padding: 10px;
+			font-size: 12px;
+						}
+
+div1
+
+	{
+		margin: 10px auto 10px auto;
+		width: 600px;
+					}
+
+ input.one
+		{
+		
+		background-color: white;
+		
+		
+				}
+
+div
+		{
+		text-align: right;
+			
+				}	
+
+#sub
+	{
+	 text-align: right;
+			}
